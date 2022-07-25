@@ -13,7 +13,7 @@ Installing [Node.js](https://nodejs.org/en/) (or `brew install node`)
 ### Install Dependencies
 
 ```
-npm run install
+npm install
 ```
 
 ### Run Porject
